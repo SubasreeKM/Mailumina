@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+openai
+imaplib2
+
+sqlalchemy
+databases
+aiosqlite
+transformers
+torch
+sentence-transformers
+faiss-cpu
